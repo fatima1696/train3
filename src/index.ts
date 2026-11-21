@@ -5,3 +5,4 @@ import {RemotionRoot} from './Root';
 
 
 registerRoot(RemotionRoot);
+
